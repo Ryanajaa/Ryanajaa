@@ -23,3 +23,8 @@ Predicts a car's speed from dashcam frames alone, using multi-gap optical flow, 
 ## Tools
 
 Python · PyTorch · OpenCV · YOLOv8 · Docker
+
+## Contact
+
+- Email: [jitpanu.aru.w@gmail.com](mailto:jitpanu.aru.w@gmail.com)
+- LinkedIn: [linkedin.com/in/jitpanu-arunotai-02097939b](https://www.linkedin.com/in/jitpanu-arunotai-02097939b/)
